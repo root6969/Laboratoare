@@ -1,1 +1,1 @@
-Laboratoare python 2024-2025 Master ULIM Rusu Adrian
+Laboratoare python 2025-2026 Master ULIM Rusu Adrian
