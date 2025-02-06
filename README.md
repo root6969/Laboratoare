@@ -1,3 +1,6 @@
+
+![writing GIF](https://github.com/user-attachments/assets/bdf18ed4-f9e4-42fb-9549-6f61ed4f28c0)
+
 Laboratoare python Varianta 7 2025-2026 Master ULIM Rusu Adrian
 
 Lab1 Screenshot results:
@@ -178,7 +181,8 @@ Modificare film:
 
 -------------------------------------------------------------------------------------------------
 
-![michael jackson mj GIF](https://github.com/user-attachments/assets/8c51ebc4-6767-4c10-b9df-5427a2c1d88f)
+
+![Jim Carrey Bow GIF](https://github.com/user-attachments/assets/5acbd283-6ba4-44a8-8c52-1e57bede5289)
 
 
 
