@@ -178,6 +178,7 @@ Modificare film:
 
 -------------------------------------------------------------------------------------------------
 
+![michael jackson mj GIF](https://github.com/user-attachments/assets/8c51ebc4-6767-4c10-b9df-5427a2c1d88f)
 
 
 
