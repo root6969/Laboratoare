@@ -1,4 +1,4 @@
-Laboratoare python 2025-2026 Master ULIM Rusu Adrian
+Laboratoare python Varianta 7 2025-2026 Master ULIM Rusu Adrian
 
 Lab1 Screenshot results:
 
